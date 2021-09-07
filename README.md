@@ -7,12 +7,12 @@
 [![Medium Badge](https://img.shields.io/badge/-@shajiu-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@18810979033)
 [![Gmail Badge](https://img.shields.io/badge/-shajiu@bit.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shajiu@iubat.edu)](mailto:shajiu@iubat.edu)
 [![Youtube Badge](https://img.shields.io/badge/-shajiu-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-shajiu-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
+[![Instagram Badge](https://img.shields.io/badge/-shajiu-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/shajiu)
 
 - 🏢 在职工作 **技术研发工程师**
 - 🚀 常使用:
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=javascript)
+  ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
