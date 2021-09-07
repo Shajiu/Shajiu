@@ -15,6 +15,8 @@
   ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Java)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
+  ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
+- 💻 常用编辑器:
   ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=plastic&logo=Pycharm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 
