@@ -33,8 +33,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Shajiu&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Shajiu&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Shajiu&theme=dark&show_icons=true)](https://github.com/shajiu)
 
 
 # 最近我阅读的博客为
