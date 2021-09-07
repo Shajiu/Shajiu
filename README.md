@@ -20,13 +20,7 @@
   ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=plastic&logo=Pycharm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
 - 💻 常用框架:
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3b2e5a?style=plastic&logo=tensorflow)
-  ![Pytorch](https://img.shields.io/badge/-Pytorch-0081CB?style=plastic&logo=pytorch)
-  ![Spring Boot](https://img.shields.io/badge/-Spring Boot-563D7C?style=plastic&logo=Spring Boot)
-  ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3b2e5a?style=plastic&logo=tensorflow)![Pytorch](https://img.shields.io/badge/-Pytorch-0081CB?style=plastic&logo=pytorch)![SpringBoot](https://img.shields.io/badge/-SpringBoot-563D7C?style=plastic&logo=Spring Boot)![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ 比较喜欢: 
 - ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
 - ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
