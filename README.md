@@ -22,14 +22,7 @@
 - 💻 常用框架:
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3b2e5a?style=plastic&logo=tensorflow)![Pytorch](https://img.shields.io/badge/-Pytorch-0081CB?style=plastic&logo=pytorch)![SpringBoot](https://img.shields.io/badge/-SpringBoot-563D7C?style=plastic&logo=SpringBoot)![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
 - ⚙️ 比较喜欢: 
-- ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
-- ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
-- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) 
-- ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
+- ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
 - 🌱 学习状态:
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
