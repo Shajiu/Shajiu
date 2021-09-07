@@ -1,4 +1,4 @@
-### Hi there 👋
+### 您好呀~ 👋
 在各个领域努力向上⚡、勤奋刻苦⚡，甘于奉献⚡、积极豁达⚡，追求卓越⚡；潜心读书⚡，敏于求知⚡。以民族的淳朴与热情感动着身边的每一位🔭，想用自己的行动让大家看到一个努力向上🔭的新时代青年🔭！回顾过去😄，无比自豪😄；展望未来😄，信心十足😄。
 
 [![Twitter Badge](https://img.shields.io/badge/-shajiu-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/shajiu/)](https://twitter.com/shajiu/)
