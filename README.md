@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-shajiu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
 [![Medium Badge](https://img.shields.io/badge/-@shajiu-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
 [![Gmail Badge](https://img.shields.io/badge/-shajiu@bit.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shajiu@iubat.edu)](mailto:shajiu@iubat.edu)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
+[![Youtube Badge](https://img.shields.io/badge/-shajiu-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-shajiu-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 
 - 🏢 在职工作 **技术研发工程师**
