@@ -16,19 +16,23 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php)
-- 💻 常用编辑器:
+- 📙 常用编辑器:
   ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=plastic&logo=Pycharm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-
 - 💻 常用框架:
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3b2e5a?style=plastic&logo=tensorflow)
   ![Pytorch](https://img.shields.io/badge/-Pytorch-0081CB?style=plastic&logo=pytorch)
+  ![Spring Boot](https://img.shields.io/badge/-Spring Boot-563D7C?style=plastic&logo=Spring Boot)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
-  ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-- ⚙️ 比较喜欢: ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+- ⚙️ 比较喜欢: 
+- ![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) 
+- ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) 
+- ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) 
+- ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) 
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
