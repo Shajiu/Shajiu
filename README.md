@@ -40,4 +40,4 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 # 最近我阅读的博客为
 如下您可以免费阅读浏览。
 
-- [Make your commit more meaningful using emojis](https://medium.com/@moshfiqrony/make-your-commit-more-meaningful-using-emojis-7dbf553293e8?source=friends_link&sk=28cd4c9b6e08e3fb9b1c6723cb4ef7ff)
+- [Make your commit more meaningful using emojis](https://godweiyang.com/)
