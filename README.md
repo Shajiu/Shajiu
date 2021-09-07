@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-shajiu-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/shajiu/)](https://twitter.com/shajiu/)
 [![Facebook Badge](https://img.shields.io/badge/-shajiu-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/shajiu/)](https://www.facebook.com/profile.php?id=100072590255259)
 [![Linkedin Badge](https://img.shields.io/badge/-shajiu-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%E4%B9%9D-%E6%B2%99-8a1357220/)](https://www.linkedin.com/in/%E4%B9%9D-%E6%B2%99-8a1357220/)
-[![Medium Badge](https://img.shields.io/badge/-@shajiu-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
+[![Medium Badge](https://img.shields.io/badge/-@shajiu-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@18810979033)
 [![Gmail Badge](https://img.shields.io/badge/-shajiu@bit.edu.cn-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:shajiu@iubat.edu)](mailto:shajiu@iubat.edu)
 [![Youtube Badge](https://img.shields.io/badge/-shajiu-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
 [![Instagram Badge](https://img.shields.io/badge/-shajiu-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
