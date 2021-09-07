@@ -11,7 +11,7 @@
 
 - 🏢 在职工作 **技术研发工程师**
 - 🚀 常使用:
-  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=javascript)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
