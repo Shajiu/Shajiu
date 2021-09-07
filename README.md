@@ -1,22 +1,4 @@
 ### Hi there 👋
-
-<!--
-**Shajiu/Shajiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![](https://github-readme-stats.vercel.app/api?username=Shajiu&theme=dark)
-# Hi there 👋
-
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
@@ -51,8 +33,8 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Shajiu&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
+[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=Shajiu&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/moshfiqrony/awesome-bd-readme-profile)
 
 
 # Read my recent blog's
