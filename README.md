@@ -1,8 +1,8 @@
 ### Hi there 👋
 在各个领域努力向上⚡、勤奋刻苦⚡，甘于奉献⚡、积极豁达⚡，追求卓越⚡；潜心读书⚡，敏于求知⚡。以民族的淳朴与热情感动着身边的每一位🔭，想用自己的行动让大家看到一个努力向上🔭的新时代青年🔭！回顾过去😄，无比自豪😄；展望未来😄，信心十足😄。
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/profile.php?id=100072590255259)
+[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/shajiu/)](https://twitter.com/moshfiqrony/)
+[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/shajiu/)](https://www.facebook.com/profile.php?id=100072590255259)
 [![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
 [![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
 [![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
