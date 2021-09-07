@@ -1,5 +1,5 @@
 ### Hi there 👋
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+在各个领域努力向上⚡、勤奋刻苦⚡，甘于奉献⚡、积极豁达⚡，追求卓越⚡。潜心读书⚡，敏于求知⚡。以民族的淳朴与热情感动着身边的每一位🔭。想用自己的行动让大家看到一个努力向上🔭、勤奋刻苦🔭，甘于奉献🔭、积极豁达的新时代青年🔭！回顾过去😄，无比自豪😄；展望未来😄，信心十足😄。
 
 [![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
 [![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/in/moshfiqrony/)](https://www.facebook.com/in/moshfiqrony/)
