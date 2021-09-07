@@ -10,16 +10,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-shajiu-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/shajiu)
 
 - 🏢 在职工作 **技术研发工程师**
-- 🚀 常用语言:
+- 🚀 常用编程语言:
   ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=Python)
   ![Java](https://img.shields.io/badge/-Java-8fcfd1?style=plastic&logo=Java)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-007ACC?style=plastic&logo=Pycharm)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
-- 💻 工作应用:
-  ![React](https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react)
-  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+
+- 💻 常用框架:
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-3b2e5a?style=plastic&logo=tensorflow)
+  ![Pytorch](https://img.shields.io/badge/-Pytorch-0081CB?style=plastic&logo=pytorch)
   ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
