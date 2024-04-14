@@ -38,6 +38,7 @@
 - [x] [Li, Hongzheng, Jiu Sha, and Can Shi. "Revisiting back-translation for low-resource machine translation between Chinese and Vietnamese." IEEE Access 8 (2020): 119931-119939.](https://ieeexplore.ieee.org/document/9129718?source=authoralert)
 - [x] [沙九, et al. "多策略切分粒度的藏汉双向神经机器翻译研究." 厦门大学学报: 自然科学版 59.2 (2020): 213-219.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=XDZK202002011&v=MTg3MjhITkhNclk5RVpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9Sb0Z5dmdXN3pJUFNuUlpiRzQ=)。
 - [x] [沙九, et al. "面向司法领域的高质量开源藏汉平行语料库构建." 中文信息学报 35.11 (2021): 51-59.](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)
+- [ ] [沙九, et al. "面向大语言模型的藏语指令数据集构建."]()
 
 ####  发明专利
 - [x] 通用信息抽取框架中收敛不一致问题解决方案和装置
