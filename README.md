@@ -33,20 +33,7 @@
 [![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Shajiu/)
 
 ### [个人主页](https://shajiu.github.io/)
-
-- 基本信息
-姓名:沙九   
-籍贯:甘肃甘南    
-生源地:甘肃省甘南藏族自治州迭部县尼傲乡巴藏村  
-邮箱:18810979033@163.com
-
-- 教育背景：
-2011.8---2014.6 就读于[甘南州合作藏族中学](https://hzzz.30edu.com.cn/)。
-2014.9---2018.7 就读于[中央民族大学信息工程学院](https://news.muc.edu.cn/info/1020/9928.htm)。
-2018.8---至今   就读于[北京理工大学计算机学院](http://cs.bit.edu.cn/)。
-
-
-
+   
 - 研究方向
 人工智能(AI)、自然语言处理（NLP）、机器翻译（MT）、大数据等。
 
