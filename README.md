@@ -44,7 +44,7 @@
 ## 📄 Selected Publications
 
 - **面向心理健康咨询的藏语数据集及大语言模型构建**  
-  *Mengxiao Z, Jiu Sha, Chong F.*  
+  *Mengxiao Z, ***Jiu Sha***, Chong F.*  
   *CCL 2024*  
   [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
 
