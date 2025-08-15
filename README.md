@@ -53,6 +53,11 @@
   *厦门大学学报: 自然科学版 2020*  
   [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
+- **VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models**  
+  ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  
+  *COLING 2025*  
+  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
+
 
 
 ####  发明专利
