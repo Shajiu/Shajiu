@@ -43,10 +43,7 @@
   *COLING 2025*  
   [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
 
-- **面向心理健康咨询的藏语数据集及大语言模型构建**  
-  *Mengxiao Zhu, ***Jiu Sha***, Chong Feng.*  
-  *CCL 2024*  
-  [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
+
 
 - **面向司法领域的高质量开源藏汉平行语料库构建**  
   ****沙九***,冯冲*  
@@ -58,7 +55,16 @@
   *厦门大学学报: 自然科学版 2020*  
   [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
-
+- **基于个性化记忆策略的小参数语言模型高效对齐方法**  
+  *Mengxiao Zhu, Peilin Tang, ***Jiu Sha****  
+  *CCL 2025*  
+  [[Paper](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)] [[Code](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)]
+  
+- **面向心理健康咨询的藏语数据集及大语言模型构建**  
+  *Mengxiao Zhu, ***Jiu Sha***, Chong Feng.*  
+  *CCL 2024*  
+  [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
+  
 - **面向大语言模型的藏语指令数据集构建**  
   *朱孟笑,***沙九***,冯冲*  
   *中文信息学报 2024*  
