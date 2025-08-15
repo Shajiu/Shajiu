@@ -49,7 +49,7 @@
   [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
 
 - **多策略切分粒度的藏汉双向神经机器翻译研究**  
-  * ***沙九***, 冯冲, 张天夫*  
+  ****沙九***, 冯冲, 张天夫*  
   *厦门大学学报: 自然科学版 2020*  
   [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
