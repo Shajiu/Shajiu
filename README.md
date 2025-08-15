@@ -38,7 +38,7 @@
 - [x] [Li, Hongzheng, Jiu Sha, and Can Shi. "Revisiting back-translation for low-resource machine translation between Chinese and Vietnamese." IEEE Access 8 (2020): 119931-119939.](https://ieeexplore.ieee.org/document/9129718?source=authoralert)
 - [x] [沙九, et al. "多策略切分粒度的藏汉双向神经机器翻译研究." 厦门大学学报: 自然科学版 59.2 (2020): 213-219.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=XDZK202002011&v=MTg3MjhITkhNclk5RVpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9Sb0Z5dmdXN3pJUFNuUlpiRzQ=)。
 - [x] [沙九, et al. "面向司法领域的高质量开源藏汉平行语料库构建." 中文信息学报 35.11 (2021): 51-59.](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)
-- [ ] [沙九, et al. "面向大语言模型的藏语指令数据集构建."]()
+- [ ] [Mengxiao Z, Jiu S, Chong F. 面向心理健康咨询的藏语数据集及大语言模型构建 (Construction of Tibetan Datasets and Large Language Models for Psychological Health Counseling)[C]//Proceedings of the 23rd Chinese National Conference on Computational Linguistics (Volume 1: Main Conference). 2024: 326-339.](https://aclanthology.org/2024.ccl-1.25/)
 
 ####  发明专利
 -	[x] 一种利用半自回归融合领域术语的低资源机器翻译方法
