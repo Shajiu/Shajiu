@@ -40,6 +40,16 @@
 - [x] [沙九, et al. "面向司法领域的高质量开源藏汉平行语料库构建." 中文信息学报 35.11 (2021): 51-59.](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)
 - [ ] [Mengxiao Z, Jiu S, Chong F. 面向心理健康咨询的藏语数据集及大语言模型构建 (Construction of Tibetan Datasets and Large Language Models for Psychological Health Counseling)[C]//Proceedings of the 23rd Chinese National Conference on Computational Linguistics (Volume 1: Main Conference). 2024: 326-339.](https://aclanthology.org/2024.ccl-1.25/)
 
+
+## 📄 Selected Publications
+
+- **面向心理健康咨询的藏语数据集及大语言模型构建**  
+  *Mengxiao Z, Jiu Sha, Chong F.*  
+  *CCL 2024*  
+  [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
+
+
+
 ####  发明专利
 -	[x] 一种利用半自回归融合领域术语的低资源机器翻译方法
 - [x] 通用信息抽取框架中收敛不一致问题解决方案和装置
