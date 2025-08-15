@@ -34,29 +34,33 @@
 
 ## [个人主页](https://shajiu.github.io/)
    
-####  发表论文
-- [x] [Li, Hongzheng, Jiu Sha, and Can Shi. "Revisiting back-translation for low-resource machine translation between Chinese and Vietnamese." IEEE Access 8 (2020): 119931-119939.](https://ieeexplore.ieee.org/document/9129718?source=authoralert)
-- [x] [沙九, et al. "多策略切分粒度的藏汉双向神经机器翻译研究." 厦门大学学报: 自然科学版 59.2 (2020): 213-219.](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDAUTO&filename=XDZK202002011&v=MTg3MjhITkhNclk5RVpZUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSN3FmWk9Sb0Z5dmdXN3pJUFNuUlpiRzQ=)。
-- [x] [沙九, et al. "面向司法领域的高质量开源藏汉平行语料库构建." 中文信息学报 35.11 (2021): 51-59.](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)
-- [ ] [Mengxiao Z, Jiu S, Chong F. 面向心理健康咨询的藏语数据集及大语言模型构建 (Construction of Tibetan Datasets and Large Language Models for Psychological Health Counseling)[C]//Proceedings of the 23rd Chinese National Conference on Computational Linguistics (Volume 1: Main Conference). 2024: 326-339.](https://aclanthology.org/2024.ccl-1.25/)
 
 
 ## 📄 Selected Publications
+
+- **VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models**  
+  ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  
+  *COLING 2025*  
+  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
 
 - **面向心理健康咨询的藏语数据集及大语言模型构建**  
   *Mengxiao Zhu, ***Jiu Sha***, Chong Feng.*  
   *CCL 2024*  
   [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
 
+- **面向司法领域的高质量开源藏汉平行语料库构建**  
+  ****沙九***,冯冲*  
+  *CCL 2021*  
+  [[Paper](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)] [[Code](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)]
+
 - **多策略切分粒度的藏汉双向神经机器翻译研究**  
   ****沙九***, 冯冲, 张天夫*  
   *厦门大学学报: 自然科学版 2020*  
   [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
-- **VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models**  
-  ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  
-  *COLING 2025*  
-  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
+  
+
+
 
 
 
