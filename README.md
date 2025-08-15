@@ -59,7 +59,7 @@
   [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
 
-  - **面向大语言模型的藏语指令数据集构建**  
+- **面向大语言模型的藏语指令数据集构建**  
   *朱孟笑,***沙九***,冯冲*  
   *中文信息学报 2024*  
   [[Paper](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)] [[Code](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)]
