@@ -39,41 +39,27 @@
 ## 📄 Selected Publications
 
 - **TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages**
-  ****Jiu Sha***, Yu Weng, Mengxiao Zhu, Chong Feng, Zheng Liu, Jialedongzhu*  
-   *EMNLP 2025 Main Conference*
-  [[Paper](https://github.com/Shajiu/TVQACML)] [[Code](https://github.com/Shajiu/TVQACML)]
+  ****Jiu Sha***, Yu Weng, Mengxiao Zhu, Chong Feng, Zheng Liu, Jialedongzhu*  *EMNLP 2025 Main Conference* [[Paper](https://github.com/Shajiu/TVQACML)] [[Code](https://github.com/Shajiu/TVQACML)]
 
 - **VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models**  
-  ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  
-  *COLING 2025*  
-  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
+  ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  *COLING 2025*  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
 
 
 
 - **面向司法领域的高质量开源藏汉平行语料库构建**  
-  ****沙九***,冯冲*  
-  *CCL 2021*  
-  [[Paper](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)] [[Code](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)]
+  ****沙九***,冯冲*  *CCL 2021*  [[Paper](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)] [[Code](http://jcip.cipsc.org.cn/CN/abstract/abstract3217.shtml)]
 
 - **多策略切分粒度的藏汉双向神经机器翻译研究**  
-  ****沙九***, 冯冲, 张天夫*  
-  *厦门大学学报: 自然科学版 2020*  
-  [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
+  ****沙九***, 冯冲, 张天夫*  *厦门大学学报: 自然科学版 2020*  [[Paper](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)] [[Code](http://dianda.cqvip.com/Qikan/Article/Detail?id=7101160584)]
 
 - **基于个性化记忆策略的小参数语言模型高效对齐方法**  
-  *Mengxiao Zhu, Peilin Tang, ***Jiu Sha****  
-  *CCL 2025*  
-  [[Paper](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)] [[Code](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)]
+  *Mengxiao Zhu, Peilin Tang, ***Jiu Sha****  *CCL 2025*  [[Paper](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)] [[Code](http://cips-cl.org/static/CCL2025/cclProgram/program/index.html)]
   
 - **面向心理健康咨询的藏语数据集及大语言模型构建**  
-  *Mengxiao Zhu, ***Jiu Sha***, Chong Feng.*  
-  *CCL 2024*  
-  [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
+  *Mengxiao Zhu, ***Jiu Sha***, Chong Feng.*  *CCL 2024*  [[Paper](https://aclanthology.org/2024.ccl-1.25)] [[Code](https://aclanthology.org/2024.ccl-1.25)]
   
 - **面向大语言模型的藏语指令数据集构建**  
-  *朱孟笑,***沙九***,冯冲*  
-  *中文信息学报 2024*  
-  [[Paper](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)] [[Code](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)]
+  *朱孟笑,***沙九***,冯冲*  *中文信息学报 2024*  [[Paper](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)] [[Code](http://jcip.cipsc.org.cn/CN/Y2024/V38/I12/83)]
 
 
 
@@ -81,13 +67,9 @@
 
 
 ####  发明专利
--	[x] 一种利用半自回归融合领域术语的低资源机器翻译方法
-- [x] 通用信息抽取框架中收敛不一致问题解决方案和装置
--	[x] 通用信息抽取框架中收敛不一致问题解决方案和装置
--	[x] 一种基于多策略融合的开放知识抽取方法
--	[x] 基于动态课程学习的命名实体识别方法
--	[x] 一种低资源场景下的实体抽取方法
-
+-	[x] 一种命名实体识别模型的训练方法、装置、设备和介质       202310336430 .X
+- [x] 一种实体抽取模型的训练方法、装置、设备和存储介质       202211165038 .5
+-	[x] 一种利用半自回归融合领域术语的低资源机器翻译方法       202111385350 .0
 
 
 
