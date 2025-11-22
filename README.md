@@ -39,7 +39,7 @@
 ## 📄 Selected Publications
 
 - **TVQACML: Benchmarking Text-Centric Visual Question Answering in Multilingual Chinese Minority Languages**
-  ****Jiu Sha***, Yu Weng, Mengxiao Zhu, Chong Feng, Zheng Liu, Jialedongzhu*  *EMNLP 2025 Main Conference* [[Paper](https://github.com/Shajiu/TVQACML)] [[Code](https://github.com/Shajiu/TVQACML)]
+  ****Jiu Sha***, Yu Weng, Mengxiao Zhu, Chong Feng, Zheng Liu, Jialedongzhu*  *EMNLP 2025 Main Conference* [[Paper](https://aclanthology.org/2025.emnlp-main.705/)] [[Code](https://github.com/Shajiu/TVQACML)]
 
 - **VEEF-Multi-LLM: Effective Vocabulary Expansion and Parameter Efficient Finetuning Towards Multilingual Large Language Models**  
   ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  *COLING 2025*  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
