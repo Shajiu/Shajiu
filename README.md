@@ -45,7 +45,7 @@
   ****Jiu Sha***, Mengxiao Zhu, Chong Feng, Yuming Shang*  *COLING 2025*  [[Paper](https://aclanthology.org/2025.coling-main.533.pdf)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
 
 - **Tibetan-LLaMA 2: Large Language Model for Tibetan**  
-  ****Jiu Sha***, and Zhu, Mengxiao and Feng, Chong and Ci, Jizhuoma*  *ACM Transactions on Asian and Low-Resource Language Information Processing*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3776748)] [[Code](https://github.com/Shajiu/VEEF-Multi-LLM)]
+  ****Jiu Sha***, and Zhu, Mengxiao and Feng, Chong and Ci, Jizhuoma*  *ACM Transactions on Asian and Low-Resource Language Information Processing*  [[Paper](https://dl.acm.org/doi/abs/10.1145/3776748)] [[Code](https://github.com/Shajiu/Tibetan-LLaMA-2)]
 
 
 - **面向司法领域的高质量开源藏汉平行语料库构建**  
