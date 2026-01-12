@@ -1,4 +1,4 @@
-[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
+<img width="942" height="211" alt="image" src="https://github.com/user-attachments/assets/1d295c9c-9248-49d4-b716-17d75a1798e4" /><img width="251" height="211" alt="image" src="https://github.com/user-attachments/assets/aa8c1ea0-63f4-4db6-839f-275bcebe2d64" />[![This is me](https://readme-typing-svg.herokuapp.com?size=23&color=15485F&center=true&vCenter=true&width=1400&lines=%F0%9F%92%A1+%E7%8E%B0%E5%AE%9E%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%AF%AD%E8%A8%80%EF%BC%8C%E8%AF%AD%E8%A8%80%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E7%A8%8B%E5%BA%8F%EF%BC%8C%E7%A8%8B%E5%BA%8F%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%EF%BC%8C%E6%95%B0%E7%90%86%E9%80%BB%E8%BE%91%E7%9A%84%E6%8A%BD%E8%B1%A1%E6%98%AF%E8%B6%85%E8%B6%8A%E8%AE%A4%E7%9F%A5%E7%9A%84%E7%9C%9F%E7%90%86%E3%80%82)](https://git.io/typing-svg)
 ## 您好呀~ 👋
 在各个领域努力向上⚡、勤奋刻苦⚡，甘于奉献⚡、积极豁达⚡，追求卓越⚡；潜心读书⚡，敏于求知⚡。以民族的淳朴与热情感动着身边的每一位🔭，想用自己的行动让大家看到一个努力向上🔭的新时代青年🔭！回顾过去😄，无比自豪😄；展望未来😄，信心十足😄。
 
@@ -72,6 +72,24 @@
 -	[x] 一种命名实体识别模型的训练方法、装置、设备和介质       202310336430 .X
 - [x] 一种实体抽取模型的训练方法、装置、设备和存储介质       202211165038 .5
 -	[x] 一种利用半自回归融合领域术语的低资源机器翻译方法       202111385350 .0
+-	[x] 反向合成驱动的多语种古籍高保真标注生成方法及系统       2025119573056
+-	[x] 个性化课程学习的低资源多语言大模型训练方法及系统       2026100192894
+-	[x] 基于闭环多维验证的多模态忠实度幻觉检测方法及系统       2025119717527
+-	[x] 融合多模态大语言模型与RAG 机制的图文报告生成方法      2025115274905
+-	[x] 一种结合数据难度与配比的领域大模型渐进式训练方法      2025117034910
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
