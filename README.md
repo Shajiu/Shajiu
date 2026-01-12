@@ -28,8 +28,6 @@
   ![CV](https://img.shields.io/badge/-CV-black?style=plastic&logo=mongodb)
 - ⚡️ 我是一个常怀感恩之心、竭尽奋斗之力的人。很幸福、也很鼓舞、更是很幸运。走出大山深林，将来若能为建设民族地区贡献自己的绵薄之力、为父老相亲们带来新的思想观念、为建设家乡能够建言献策，不虚此行。一路走来，心中无比感恩。
 
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=Shajiu&theme=dark&show_icons=true)](https://github.com/shajiu)
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api/pin/?username=moshfiqrony&repo=awesome-bd-readme-profile&theme=dark)](https://github.com/Shajiu/)
 
 ## [个人主页](https://shajiu.github.io/)
    
